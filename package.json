@@ -1,0 +1,23 @@
+{
+  "name": "thesis-generator-bot",
+  "version": "0.0.1",
+  "description": "A Discord bot that generates thesis ideas using a Markov chain.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "type": "module",
+  "keywords": [
+    "discord",
+    "bot",
+    "markov"
+  ],
+  "author": "Daniel Shiffman",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "he": "^1.2.0"
+  }
+}
