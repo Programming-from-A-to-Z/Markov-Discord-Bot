@@ -1,5 +1,7 @@
 {
   "venues": [
+    { "id": 206, "name": "LowRes Thesis 2024" },
+    { "id": 202, "name": "Thesis Spring 2024" },
     { "id": 193, "name": "Lowres Thesis 2023" },
     { "id": 188, "name": "Thesis Spring 2023" },
     { "id": 180, "name": "LowRes Thesis Show 2022" },
